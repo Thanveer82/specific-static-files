@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+
+
+}
+h1{color: beige;}
+h2{
+    color: beige;
+}
+img{
+    min-width: 50px;
+    min-height: fit-content;
+    size: inherit;
+}
